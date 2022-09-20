@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sudhanshu8833/sudhanshu8833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Algo99 - Its a startup, I had been working on for months for more info visit www.algo99.com
 - 🌱 I’m currently learning ReactJs, Datastructures and algorithms
 - 👯 I’m looking to collaborate on Algo-trading stuffs
@@ -12,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Trading Bot, Core Python, Django, Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/sudhanshu-singh-b82358b9
 - ⚡ Fun fact: I hate debugging😂
--->
+
