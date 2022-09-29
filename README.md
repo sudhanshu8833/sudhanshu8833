@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Frontend, I have some problems with frontend of my website, if someone is interested contact me. description of problem - https://hail-cone-afb.notion.site/Frontend-conditions-page-17a4cb14ab60433986825bc3576065e4
 - 💬 Ask me about Trading Bot, Core Python, Django, Javascript
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/sudhanshu-singh-b82358b9 
-                    - fiverr  -  https://fiverr.com/s2/383e8eaf3b 
+- fiverr  -  https://fiverr.com/s2/383e8eaf3b 
                     - email   -  sudhanshu8833@gmail.com
 - ⚡ Fun fact: I hate debugging😂, I know you do too...
 
